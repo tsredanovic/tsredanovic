@@ -1,4 +1,3 @@
-
 <p>
   <h1 align="center">Toni Sredanović</h1>
 </p>
@@ -36,5 +35,45 @@
   <!-- StackOverflow badge -->
   <a href="https://stackoverflow.com/users/6182497/toni-sredanovi%c4%87">
     <img src="https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logoColor=white&logo=stackoverflow" alt="StackOverflow"/>
+  </a>
+</p>
+
+<!-- Pins - https://github.com/anuraghazra/github-readme-stats -->
+<p>
+  <h2 align="center">GitHub Repositories</h2>
+</p>
+
+<p align="center">
+  <!-- checkip pin -->
+  <a href="https://github.com/tsredanovic/checkip">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=checkip&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+  </a>
+  <!-- dynamicflare pin -->
+  <a href="https://github.com/tsredanovic/dynamicflare">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=dynamicflare&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+  </a>
+  <!-- emby-webhooks pin -->
+  <a href="https://github.com/tsredanovic/emby-webhooks">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=emby-webhooks&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+  </a>
+  <!-- ear-drops pin -->
+  <a href="https://github.com/tsredanovic/ear-drops">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=ear-drops&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+  </a>
+  <!-- alfred pin -->
+  <a href="https://github.com/tsredanovic/alfred">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=alfred&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+  </a>
+  <!-- zplgrf pin -->
+  <a href="https://github.com/tsredanovic/zplgrf">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=zplgrf&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+  </a>
+  <!-- advent-of-code pin -->
+  <a href="https://github.com/tsredanovic/advent-of-code">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=advent-of-code&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+  </a>
+  <!-- camko pin -->
+  <a href="https://github.com/tsredanovic/camko">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=camko&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
   </a>
 </p>
