@@ -6,7 +6,6 @@
   I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition<a href="https://www.youtube.com/watch?v=MeaAh5Sbg5o">.</a>
 </p>
 
-
 <!-- Badges - https://shields.io/ -->
 <!-- For icons use: https://simpleicons.org/, https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center">
@@ -29,6 +28,7 @@
     <img src="https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logoColor=white&logo=stackoverflow" alt="StackOverflow"/>
   </a>
 </p>
+
 
 <!-- Pins - https://github.com/anuraghazra/github-readme-stats -->
 <p>
@@ -70,14 +70,13 @@
   </a>
 </p>
 
+
 <!-- Blog Posts - https://github.com/anuraghazra/github-readme-stats -->
 <p>
   <h2 align="center">Latest Blog Posts</h2>
 </p>
+
+<p align="center">
 <!-- BLOG-POST-LIST:START -->
-- [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
 <!-- BLOG-POST-LIST:END -->
+</p>
