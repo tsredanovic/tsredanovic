@@ -77,15 +77,10 @@
 </p>
 
 <p align="center">
-<!-- BLOG-POST-LIST:START -->
-<a href="http://tsredanovic.github.io/blog/build-aseprite-from-source-on-linux/"><img src="https://img.shields.io/badge/Thu Sep 23 2021 12:00 AM-Build Aseprite from source on Linux-black?style=for-the-badge&labelColor=black" alt="Build Aseprite from source on Linux"/></a><br>
-
-<a href="http://tsredanovic.github.io/blog/project-showcase-dynamicflare/"><img src="https://img.shields.io/badge/Fri Sep 17 2021 12:00 AM-Project Showcase / DynamicFlare-black?style=for-the-badge&labelColor=black" alt="Project Showcase / DynamicFlare"/></a><br>
-
-<a href="http://tsredanovic.github.io/blog/graphics-in-zebra-programming-language/"><img src="https://img.shields.io/badge/Wed Sep 08 2021 12:00 AM-Graphics in Zebra Programming Language-black?style=for-the-badge&labelColor=black" alt="Graphics in Zebra Programming Language"/></a><br>
-
-<a href="http://tsredanovic.github.io/blog/project-showcase-checkip/"><img src="https://img.shields.io/badge/Tue Aug 10 2021 12:00 AM-Project Showcase / CheckIp-black?style=for-the-badge&labelColor=black" alt="Project Showcase / CheckIp"/></a><br>
-
-<a href="http://tsredanovic.github.io/blog/virtual-environments-in-python/"><img src="https://img.shields.io/badge/Tue Jun 08 2021 12:00 AM-Virtual environments in Python-black?style=for-the-badge&labelColor=black" alt="Virtual environments in Python"/></a><br>
+<!-- BLOG-POST-LIST:START --><a href="http://tsredanovic.github.io/blog/build-aseprite-from-source-on-linux/"><img src="https://img.shields.io/badge/Thu Sep 23 2021 12:00 AM-Build Aseprite from source on Linux-black?style=for-the-badge&labelColor=white" alt="Build Aseprite from source on Linux"/></a><br>
+<a href="http://tsredanovic.github.io/blog/project-showcase-dynamicflare/"><img src="https://img.shields.io/badge/Fri Sep 17 2021 12:00 AM-Project Showcase / DynamicFlare-black?style=for-the-badge&labelColor=white" alt="Project Showcase / DynamicFlare"/></a><br>
+<a href="http://tsredanovic.github.io/blog/graphics-in-zebra-programming-language/"><img src="https://img.shields.io/badge/Wed Sep 08 2021 12:00 AM-Graphics in Zebra Programming Language-black?style=for-the-badge&labelColor=white" alt="Graphics in Zebra Programming Language"/></a><br>
+<a href="http://tsredanovic.github.io/blog/project-showcase-checkip/"><img src="https://img.shields.io/badge/Tue Aug 10 2021 12:00 AM-Project Showcase / CheckIp-black?style=for-the-badge&labelColor=white" alt="Project Showcase / CheckIp"/></a><br>
+<a href="http://tsredanovic.github.io/blog/virtual-environments-in-python/"><img src="https://img.shields.io/badge/Tue Jun 08 2021 12:00 AM-Virtual environments in Python-black?style=for-the-badge&labelColor=white" alt="Virtual environments in Python"/></a><br>
 <!-- BLOG-POST-LIST:END -->
 </p>
