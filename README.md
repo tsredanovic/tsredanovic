@@ -71,7 +71,7 @@
 </p>
 
 
-<!-- Blog Posts - https://github.com/anuraghazra/github-readme-stats -->
+<!-- Blog Posts - https://github.com/gautamkrishnar/blog-post-workflow -->
 <p>
   <h2 align="center">Latest Blog Posts</h2>
 </p>
