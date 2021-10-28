@@ -74,3 +74,5 @@
 <p>
   <h2 align="center">Latest Blog Posts</h2>
 </p>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
