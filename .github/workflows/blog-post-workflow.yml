@@ -16,3 +16,4 @@ jobs:
         with:
           feed_list: "https://tsredanovic.github.io/blog/feed.xml"
           template: "<a href=\"$url\"><img src=\"https://img.shields.io/badge/$date-$title-black?style=for-the-badge&labelColor=white\" alt=\"$title\"/></a><br>$newline"
+          date_format: "mmmm d, yyyy"
