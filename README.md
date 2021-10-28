@@ -77,10 +77,6 @@
 </p>
 
 <p align="center">
-<!-- BLOG-POST-LIST:START --><a href="http://tsredanovic.github.io/blog/build-aseprite-from-source-on-linux/"><img src="https://img.shields.io/badge/-Build Aseprite from source on Linux-white?style=for-the-badge" alt="Build Aseprite from source on Linux"/></a><br>
-<a href="http://tsredanovic.github.io/blog/project-showcase-dynamicflare/"><img src="https://img.shields.io/badge/-Project Showcase / DynamicFlare-white?style=for-the-badge" alt="Project Showcase / DynamicFlare"/></a><br>
-<a href="http://tsredanovic.github.io/blog/graphics-in-zebra-programming-language/"><img src="https://img.shields.io/badge/-Graphics in Zebra Programming Language-white?style=for-the-badge" alt="Graphics in Zebra Programming Language"/></a><br>
-<a href="http://tsredanovic.github.io/blog/project-showcase-checkip/"><img src="https://img.shields.io/badge/-Project Showcase / CheckIp-white?style=for-the-badge" alt="Project Showcase / CheckIp"/></a><br>
-<a href="http://tsredanovic.github.io/blog/virtual-environments-in-python/"><img src="https://img.shields.io/badge/-Virtual environments in Python-white?style=for-the-badge" alt="Virtual environments in Python"/></a><br>
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </p>
