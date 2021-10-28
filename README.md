@@ -77,6 +77,10 @@
 </p>
 
 <p align="center">
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --><a href="https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf"><img src="https://img.shields.io/badge/-How to prevent GitHub from suspending your cronjob based triggers-white?style=for-the-badge" alt="How to prevent GitHub from suspending your cronjob based triggers"/></a><br>
+<a href="https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8"><img src="https://img.shields.io/badge/-Show your latest dev.to posts automatically on your GitHub profile readme-white?style=for-the-badge" alt="Show your latest dev.to posts automatically on your GitHub profile readme"/></a><br>
+<a href="https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo"><img src="https://img.shields.io/badge/-God Mode in browsers: document.designMode = "on"-white?style=for-the-badge" alt="God Mode in browsers: document.designMode = "on""/></a><br>
+<a href="https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1"><img src="https://img.shields.io/badge/-Skipping the Chrome "Your connection is not private" warning-white?style=for-the-badge" alt="Skipping the Chrome "Your connection is not private" warning"/></a><br>
+<a href="https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar"><img src="https://img.shields.io/badge/-Microsoft Student Partners – Geek is the new rockstar-white?style=for-the-badge" alt="Microsoft Student Partners – Geek is the new rockstar"/></a><br>
 <!-- BLOG-POST-LIST:END -->
 </p>
