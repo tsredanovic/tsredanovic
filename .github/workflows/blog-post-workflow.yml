@@ -14,5 +14,5 @@ jobs:
       - name: Pull in blog posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/gautamkrishnar"
+          feed_list: "https://tsredanovic.github.io/blog/feed.xml"
           template: "<a href=\"$url\"><img src=\"https://img.shields.io/badge/-$title-white?style=for-the-badge\" alt=\"$title\"/></a><br>$newline"
