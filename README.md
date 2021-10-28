@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-  I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition<a href="https://www.youtube.com/watch?v=MeaAh5Sbg5o" target="_blank">.</a>
+  I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition<a href="https://www.youtube.com/watch?v=MeaAh5Sbg5o">.</a>
 </p>
 
 
 <!-- Badges - https://shields.io/ -->
 <!-- For icons use: https://simpleicons.org/, https://github.com/simple-icons/simple-icons/blob/develop/slugs.md -->
 <p align="center">
-  <!-- Portfolio badge -->
+  <!-- About Me badge -->
   <!-- Possible logos: actigraph, aiqfome -->
   <a href="https://tsredanovic.github.io/">
-    <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logoColor=white&logo=aiqfome" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/-About Me-black?style=for-the-badge&logoColor=white&logo=aiqfome" alt="AboutMe"/>
   </a>
   <!-- Blog badge -->
   <!-- Possible logos: bloglovin, readthedocs -->
@@ -23,14 +23,6 @@
   <!-- LinkedIn badge -->
   <a href="https://www.linkedin.com/in/tsredanovic/">
     <img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logoColor=white&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <!-- FaceBook badge -->
-  <a href="https://www.facebook.com/toni.sredanovic">
-    <img src="https://img.shields.io/badge/-FaceBook-black?style=for-the-badge&logoColor=white&logo=facebook" alt="FaceBook"/>
-  </a>
-  <!-- GitHub badge -->
-  <a href="https://github.com/tsredanovic">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logoColor=white&logo=github" alt="GitHub"/>
   </a>
   <!-- StackOverflow badge -->
   <a href="https://stackoverflow.com/users/6182497/toni-sredanovi%c4%87">
@@ -46,34 +38,39 @@
 <p align="center">
   <!-- checkip pin -->
   <a href="https://github.com/tsredanovic/checkip">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=checkip&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=checkip&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
   </a>
   <!-- dynamicflare pin -->
   <a href="https://github.com/tsredanovic/dynamicflare">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=dynamicflare&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
-  </a>
-  <!-- emby-webhooks pin -->
-  <a href="https://github.com/tsredanovic/emby-webhooks">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=emby-webhooks&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=dynamicflare&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
   </a>
   <!-- ear-drops pin -->
   <a href="https://github.com/tsredanovic/ear-drops">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=ear-drops&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=ear-drops&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
   </a>
-  <!-- alfred pin -->
+  <!-- emby-webhooks pin -->
+  <a href="https://github.com/tsredanovic/emby-webhooks">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=emby-webhooks&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+  </a>
+    <!-- alfred pin -->
   <a href="https://github.com/tsredanovic/alfred">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=alfred&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=alfred&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
   </a>
   <!-- zplgrf pin -->
   <a href="https://github.com/tsredanovic/zplgrf">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=zplgrf&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
-  </a>
-  <!-- advent-of-code pin -->
-  <a href="https://github.com/tsredanovic/advent-of-code">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=advent-of-code&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=zplgrf&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
   </a>
   <!-- camko pin -->
   <a href="https://github.com/tsredanovic/camko">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=camko&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=camko&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
   </a>
+  <!-- advent-of-code pin -->
+  <a href="https://github.com/tsredanovic/advent-of-code">
+    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=tsredanovic&repo=advent-of-code&title_color=000000&text_color=000000&icon_color=000000&border_color=000000&bg_color=ffffff" />
+  </a>
+</p>
+
+<!-- Blog Posts - https://github.com/anuraghazra/github-readme-stats -->
+<p>
+  <h2 align="center">Latest Blog Posts</h2>
 </p>
