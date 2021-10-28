@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://tsredanovic.github.io/blog/feed.xml"
-          template: "<a href=\"$url\"><img src=\"https://img.shields.io/badge/-$title-white?style=for-the-badge\" alt=\"$title\"/></a><br>$newline"
+          template: "$newline<a href=\"$url\"><img src=\"https://img.shields.io/badge/$date-$title-black?style=for-the-badge&labelColor=black\" alt=\"$title\"/></a><br>$newline"
