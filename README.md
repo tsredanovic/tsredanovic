@@ -77,10 +77,6 @@
 </p>
 
 <p align="center">
-<!-- BLOG-POST-LIST:START --><a href="https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf">How to prevent GitHub from suspending your cronjob based triggers</a>
-<a href="https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8">Show your latest dev.to posts automatically on your GitHub profile readme</a>
-<a href="https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo">God Mode in browsers: document.designMode = "on"</a>
-<a href="https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1">Skipping the Chrome "Your connection is not private" warning</a>
-<a href="https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar">Microsoft Student Partners – Geek is the new rockstar</a>
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 </p>
