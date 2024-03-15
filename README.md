@@ -77,10 +77,10 @@
 </p>
 
 <p align="center">
-<!-- BLOG-POST-LIST:START --><a href="http://tsredanovic.github.io/blog/project-showcase-emby-webhooks/"><img height="28" src="https://img.shields.io/badge/October 28, 2021-Project Showcase / Emby Webhooks-black?style=for-the-badge&labelColor=white" alt="Project Showcase / Emby Webhooks"/></a><br>
+<!-- BLOG-POST-LIST:START --><a href="http://tsredanovic.github.io/blog/encrypted-volumes-part-3-automatic-mounting/"><img height="28" src="https://img.shields.io/badge/February 6, 2024-Encrypted volumes part 3 - Automatic mounting-black?style=for-the-badge&labelColor=white" alt="Encrypted volumes part 3 - Automatic mounting"/></a><br>
+<a href="http://tsredanovic.github.io/blog/encrypted-volumes-part-2-luks/"><img height="28" src="https://img.shields.io/badge/January 12, 2024-Encrypted volumes part 2 - LUKS-black?style=for-the-badge&labelColor=white" alt="Encrypted volumes part 2 - LUKS"/></a><br>
+<a href="http://tsredanovic.github.io/blog/encrypted-volumes-part-1-lvm/"><img height="28" src="https://img.shields.io/badge/January 11, 2024-Encrypted volumes part 1 - LVM-black?style=for-the-badge&labelColor=white" alt="Encrypted volumes part 1 - LVM"/></a><br>
+<a href="http://tsredanovic.github.io/blog/project-showcase-emby-webhooks/"><img height="28" src="https://img.shields.io/badge/October 28, 2021-Project Showcase / Emby Webhooks-black?style=for-the-badge&labelColor=white" alt="Project Showcase / Emby Webhooks"/></a><br>
 <a href="http://tsredanovic.github.io/blog/build-aseprite-from-source-on-linux/"><img height="28" src="https://img.shields.io/badge/September 23, 2021-Build Aseprite from source on Linux-black?style=for-the-badge&labelColor=white" alt="Build Aseprite from source on Linux"/></a><br>
-<a href="http://tsredanovic.github.io/blog/project-showcase-dynamicflare/"><img height="28" src="https://img.shields.io/badge/September 17, 2021-Project Showcase / DynamicFlare-black?style=for-the-badge&labelColor=white" alt="Project Showcase / DynamicFlare"/></a><br>
-<a href="http://tsredanovic.github.io/blog/graphics-in-zebra-programming-language/"><img height="28" src="https://img.shields.io/badge/September 8, 2021-Graphics in Zebra Programming Language-black?style=for-the-badge&labelColor=white" alt="Graphics in Zebra Programming Language"/></a><br>
-<a href="http://tsredanovic.github.io/blog/project-showcase-checkip/"><img height="28" src="https://img.shields.io/badge/August 10, 2021-Project Showcase / CheckIp-black?style=for-the-badge&labelColor=white" alt="Project Showcase / CheckIp"/></a><br>
 <!-- BLOG-POST-LIST:END -->
 </p>
