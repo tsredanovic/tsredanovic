@@ -77,7 +77,7 @@
 </p>
 
 <p align="center">
-<!-- BLOG-POST-LIST:START --><a href="http://tsredanovic.github.io/blog/encrypted-volumes-part-3-automatic-mounting/"><img height="28" src="https://img.shields.io/badge/February 6, 2024-Encrypted volumes part 3 - Automatic mounting-black?style=for-the-badge&labelColor=white" alt="Encrypted volumes part 3 -- Automatic mounting"/></a><br>
+<!-- BLOG-POST-LIST:START --><a href="http://tsredanovic.github.io/blog/encrypted-volumes-part-3-automatic-mounting/"><img height="28" src="https://img.shields.io/badge/February 6, 2024-Encrypted volumes part 3 -- Automatic mounting-black?style=for-the-badge&labelColor=white" alt="Encrypted volumes part 3 - Automatic mounting"/></a><br>
 <a href="http://tsredanovic.github.io/blog/encrypted-volumes-part-2-luks/"><img height="28" src="https://img.shields.io/badge/January 12, 2024-Encrypted volumes part 2 -- LUKS-black?style=for-the-badge&labelColor=white" alt="Encrypted volumes part 2 - LUKS"/></a><br>
 <a href="http://tsredanovic.github.io/blog/encrypted-volumes-part-1-lvm/"><img height="28" src="https://img.shields.io/badge/January 11, 2024-Encrypted volumes part 1 -- LVM-black?style=for-the-badge&labelColor=white" alt="Encrypted volumes part 1 - LVM"/></a><br>
 <a href="http://tsredanovic.github.io/blog/project-showcase-emby-webhooks/"><img height="28" src="https://img.shields.io/badge/October 28, 2021-Project Showcase / Emby Webhooks-black?style=for-the-badge&labelColor=white" alt="Project Showcase / Emby Webhooks"/></a><br>
